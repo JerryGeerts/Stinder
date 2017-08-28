@@ -1,0 +1,26 @@
+body {
+    /* background-image: url(../IMG/loginbg.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+form div {
+	background-color: #336B87;
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+    top: 50%;
+    margin-top: -119px;
+    padding: 54px 25px;
+    color: white;
+    font-family: nordica;
+}
+
+/*FONT*/
+
+	@font-face {
+    font-family: nordica;
+    src: url(../FONTS/NordicaHairline.otf);
+	}
